@@ -1,0 +1,120 @@
+.myfont{
+    font-family: 'Roboto Slab', serif;
+ 
+}
+.myfont2{
+    font-family: 'Roboto Mono', monospace;
+}
+.msg{
+    margin: 5px;
+    padding: 3px;
+    font-weight: bold;
+    color: red;
+    background-color:rosybrown;
+}
+.para_res_name{
+    border: 8px solid gray ;
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    font-size: large;
+    background: black;
+}
+hr.rounded {
+    border-top: 8px solid #bbb;
+    border-radius: 5px;
+  }
+.cart_icon{
+    font-size: 25px  !important;
+    float: right;
+    color: navy;
+    cursor: pointer;
+}
+.msg1{
+    color:red;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+#st{
+    margin: 3px;
+}
+
+h1{
+    padding: 10px;
+    margin-bottom: 3px ;
+    color:blue;
+    font-weight:normal;
+    text-align: center;
+    border-radius: 35px;
+}
+.center {
+    margin: auto;
+    color:white;
+    font-weight: normal;
+    width: 60%;
+    border: 5px solid #FFFF00;
+    padding: 10px; 
+}
+#submit,#update{
+    margin : 7px 7px 7px 0px ;
+    display: inline;
+    padding: 10px 20px;
+    border: 3px solid black;
+    border-radius: 6px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    border-color:white;
+    width: auto;
+    cursor: pointer;
+}
+.btn{
+    
+    margin:auto;
+    width: 100%;
+    padding: 10px;
+}
+.bg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+td{
+    padding: 5px;
+}
+.fstyle{
+    margin: 5px;
+    border:3px solid black;
+}
+.place_container{
+    margin-top : 150px ;
+    height :  400px ;
+    width : 100% ;
+    display:flex ;
+    flex-direction : column ;
+    align-items : center ;
+    
+    
+}
+.place_item{
+    height : 300px ;
+    padding : 3px ;
+    font-family : monospace ;
+    font-size : 30px ;
+    font-weight : bold ;
+    margin : 8px ;
+    
+}
+#place_btn {
+    font-family : monospace ;
+    font-size : 20px ;
+    padding : 4px ;
+    font-weight : bold ;
+}
+#place_item-0{
+    
+    border : 2px solid black ;
+    margin : 25px ;
+}
